@@ -4,7 +4,7 @@
 
 ## What is it?
 
-An clone of famous "boids" flocking algorithm. There is also wall avoidance and goal seeking which are not part of the original concept AFAIK.
+A clone of famous "boids" flocking algorithm. There is also wall avoidance and goal seeking which are not part of the original concept AFAIK.
 
 # How to use
 Open the Unity project and scene and run the program. Use mouse left click to set goal position. Adjust Spawner Inspector settings to change how agents move.
